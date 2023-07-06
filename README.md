@@ -1,2 +1,1 @@
-# assets-do-curso-jogo-mini-golf-2d-na-unity
-Assets que utilizamos no curso de criação de um jogo de Mini Golf 2D na Unity :)
+<h1>Assets do curso "Jogo de Mini Golf 2D na Unity" [YouTube]</h1>
